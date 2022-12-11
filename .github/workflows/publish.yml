@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: matthewwong525/linked-blog-starter
+  BLOG_REPO: fleetingnotes/fleeting-notes-website
   PUBLISH_DIR: publish
   MD_DIR: temp_md
   BLOG_DIR: temp_blog
