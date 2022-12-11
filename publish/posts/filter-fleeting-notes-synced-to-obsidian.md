@@ -17,4 +17,4 @@ This can be applied to numerous scenarios:
 - Only sync select Fleeting Notes specified by a tag (e.g. #work)
 - Only sync Fleeting Notes by the source
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">In the <a href="https://twitter.com/fleetingnotes_?ref_src=twsrc%5Etfw">@fleetingnotes_</a> obsidian plugin, you can now filter notes by text! <a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a> <a href="https://t.co/AOo5EomHjU">pic.twitter.com/AOo5EomHjU</a></p>&mdash; Matthew Wong (@IThinkWong) <a href="https://twitter.com/IThinkWong/status/1574861668466696202?ref_src=twsrc%5Etfw">September 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://t.co/AOo5EomHjU

@@ -20,10 +20,10 @@ Recently, I made a poll in my discord channel to ask for what features to add. T
 4. Take notes from the home widget and watch them populate in Obsidian
 
 ### Android Example
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Android home widgets for <a href="https://twitter.com/fleetingnotes_?ref_src=twsrc%5Etfw">@fleetingnotes_</a> 👀 <a href="https://t.co/KJPZCtLBxd">https://t.co/KJPZCtLBxd</a> <a href="https://t.co/ApVM0l1xZW">pic.twitter.com/ApVM0l1xZW</a></p>&mdash; Matthew Wong (@IThinkWong) <a href="https://twitter.com/IThinkWong/status/1592538095186214914?ref_src=twsrc%5Etfw">November 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://t.co/ApVM0l1xZW
 
 ### iOS Example
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Hello <a href="https://twitter.com/fleetingnotes_?ref_src=twsrc%5Etfw">@fleetingnotes_</a> iOS users. Here&#39;s a home widget for y&#39;all👋 <a href="https://t.co/Hjz2mdutJj">pic.twitter.com/Hjz2mdutJj</a></p>&mdash; Matthew Wong (@IThinkWong) <a href="https://twitter.com/IThinkWong/status/1592992336157741081?ref_src=twsrc%5Etfw">November 16, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://t.co/Hjz2mdutJj
 
 ## A small but IMPORTANT caveat
 If you decide to use Fleeting Notes **across multiple platforms**, you'll be forced to re-login when switching between devices. To avoid re-logging in when switching devices, you'll need to [subscribe](https://fleetingnotes.app/pricing) to the basic plan. 

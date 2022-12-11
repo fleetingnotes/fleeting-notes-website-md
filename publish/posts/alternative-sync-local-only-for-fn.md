@@ -14,5 +14,5 @@ Anyways, it'd be awesome if you guys gave tried it out and let me know what you 
 
 Also, join the [discord channel](https://discord.gg/xrj6yuGNmx) :)
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Another upcoming feature for <a href="https://twitter.com/fleetingnotes_?ref_src=twsrc%5Etfw">@fleetingnotes_</a> I&#39;ve been working on. Local file sync between the app and markdown files. This allows FN to be usable with other local markdown editor apps! <a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a> <a href="https://t.co/tBmdy7AzEL">pic.twitter.com/tBmdy7AzEL</a></p>&mdash; Matthew Wong (@IThinkWong) <a href="https://twitter.com/IThinkWong/status/1572221667006623746?ref_src=twsrc%5Etfw">September 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://t.co/tBmdy7AzEL
 
