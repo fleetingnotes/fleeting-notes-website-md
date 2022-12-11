@@ -23,4 +23,5 @@ In the next minute, I'll answer all of these questions and provide a process for
 2. Once you've identified you want to create that link, first search past links you've created and check if you've already created the link.
 3. If no links exist, create that link. Then populate the link with details of the concept and create a descriptive and concise title. We want to avoid generic titles like `school` or `work`.
 
-[![Youtube Video](https://img.youtube.com/vi/XGd1oaAU1lI/0.jpg)](https://www.youtube.com/watch?v=XGd1oaAU1lI)
+
+https://www.youtube.com/watch?v=XGd1oaAU1lI

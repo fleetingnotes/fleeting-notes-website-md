@@ -23,4 +23,5 @@ Then you're done! End-to-end encryption is enabled. From now on, notes that are 
 2. Type the same encryption key you used for in the Fleeting Notes application
 3. Perform the sync!
 
-[![Youtube Video](https://img.youtube.com/vi/Dpih3dlu098/0.jpg)](https://www.youtube.com/watch?v=Dpih3dlu098)
+
+https://www.youtube.com/watch?v=Dpih3dlu098

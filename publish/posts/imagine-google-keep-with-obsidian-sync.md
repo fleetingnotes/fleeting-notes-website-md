@@ -17,4 +17,6 @@ As of 0.2.0 [Fleeting Notes](https://fleetingnotes.app) now supports bi-directio
 **Note**: If you've already installed the plugin you may need to reset the note template so it contains all the metadata needed for sync.
 
 Here's a 5 second video of me updating the plugin settings:
-[![Youtube Video](https://img.youtube.com/vi/c5hEU0P0NC8/0.jpg)](https://www.youtube.com/watch?v=c5hEU0P0NC8)
+
+https://www.youtube.com/watch?v=c5hEU0P0NC8
+

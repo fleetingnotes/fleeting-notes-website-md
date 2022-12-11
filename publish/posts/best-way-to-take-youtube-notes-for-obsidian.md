@@ -10,4 +10,5 @@ When taking Youtube notes in Fleeting Notes, the YT timestamp is automatically a
 
 When combined with the [[posts/sync-fleeting-notes-with-obsidian|automatic Obsidian sync]], I don't need to worry about capturing the timestamp, URL or integrating the note to my knowledge base. I can finally focus on the one thing that matters--writing notes.
 
-[![Youtube Video](https://img.youtube.com/vi/1YZZ0Nkte1s/0.jpg)](https://www.youtube.com/watch?v=1YZZ0Nkte1s)
+
+https://www.youtube.com/watch?v=1YZZ0Nkte1s

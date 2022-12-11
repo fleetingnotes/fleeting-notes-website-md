@@ -16,4 +16,6 @@ So in Fleeting Notes I added a sharing feature that makes it possible to share c
 Example of shared notes: https://my.fleetingnotes.app/?note=1b11a080-f7a4-11ec-a56d-898084d86b15
 
 Demo: 
-[![Youtube Video](https://img.youtube.com/vi/f3hxlXcmlyY/0.jpg)](https://www.youtube.com/watch?v=f3hxlXcmlyY)
+
+https://www.youtube.com/watch?v=f3hxlXcmlyY
+

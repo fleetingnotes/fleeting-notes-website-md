@@ -10,4 +10,5 @@ For many, an important part of taking quick notes is to be able to process those
 This commands inserts a checklist of unprocessed notes as references. Once an item is checked, the note will be processed. Then, future command runs will produce a checklist without the processed note.
 
 Here is a video of me processing Fleeting Notes:
-[![Youtube Video](https://img.youtube.com/vi/sFQaDeFNecc/0.jpg)](https://www.youtube.com/watch?v=sFQaDeFNecc)
+
+https://www.youtube.com/watch?v=sFQaDeFNecc

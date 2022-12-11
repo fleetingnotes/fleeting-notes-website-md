@@ -12,4 +12,5 @@ On a side note, you can follow this link to learn [[posts/sync-fleeting-notes-wi
 
 For users of Fleeting Notes and non-users. I'd love to know if you didn't really need this or if you'll be using this ASAP!
 
-[![Youtube Video](https://img.youtube.com/vi/jausylB4Pzw/0.jpg)](https://www.youtube.com/watch?v=jausylB4Pzw)
+
+https://www.youtube.com/watch?v=jausylB4Pzw

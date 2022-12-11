@@ -20,7 +20,9 @@ In this post, I [[posts/simplest-way-to-use-zettelkasten-for-note-management|wri
 
 ## A Video
 Here is a video of me taking the notes + my commentary.
-[![Youtube Video](https://img.youtube.com/vi/x6gMDQ5Ll3w/0.jpg)](https://www.youtube.com/watch?v=x6gMDQ5Ll3w)
+
+https://www.youtube.com/watch?v=x6gMDQ5Ll3w
+
 
 
 

@@ -13,4 +13,5 @@ Essentially, the text that is written + every link is fed into a machine learnin
 Fleeting Notes is a free application, but AI-powered link suggestions is a paid feature in Fleeting Notes. If you want to try it out, use the promo code `AILINKS` for a 1 month free trial (Note: This coupon code expires July 31st, 2022).
 
 Here is a demo of the sentence similarity ranking in action:
-[![Youtube Video](https://img.youtube.com/vi/3ySN4o0o7Hw/0.jpg)](https://www.youtube.com/watch?v=3ySN4o0o7Hw)
+
+https://www.youtube.com/watch?v=3ySN4o0o7Hw

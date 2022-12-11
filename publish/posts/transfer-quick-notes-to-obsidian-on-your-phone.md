@@ -16,4 +16,5 @@ Well wait no longer! Because Fleeting Notes provides a quick and easy way to tak
 
 Fleeting Notes came from a [[posts/put-quick-notes-into-obsidian-from-anywhere|personal pain point with taking quick notes in Obsidian]] and has evolved to the app you see now. I hope this app can also help you as well. 
 
-[![Youtube Video](https://img.youtube.com/vi/i90c9HsTJlg/0.jpg)](https://www.youtube.com/watch?v=i90c9HsTJlg)
+
+https://www.youtube.com/watch?v=i90c9HsTJlg

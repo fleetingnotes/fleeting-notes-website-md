@@ -20,7 +20,9 @@ I've talked a lot about how [[posts/zettelkasten-shouldnt-be-complicated-but-it-
 
 ## A Video
 Here is a video of me taking the notes + my commentary.
-[![Youtube Video](https://img.youtube.com/vi/t7UlvWJ17U4/0.jpg)](https://www.youtube.com/watch?v=t7UlvWJ17U4)
+
+https://www.youtube.com/watch?v=t7UlvWJ17U4
+
 
 
 

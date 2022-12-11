@@ -17,4 +17,5 @@ For more complicated notes, I take advantage of linking notes. With linking, I r
 
 So where does Obsidian come into this? Well with the Fleeting Notes app, notes can be [[posts/sync-fleeting-notes-with-obsidian|synced with Obsidian]] through the FN plugin. This way all notes taken within the Fleeting Notes will be automatically transferred into Obsidian!
 
-[![Youtube Video](https://img.youtube.com/vi/5iRkm7IAZp8/0.jpg)](https://www.youtube.com/watch?v=5iRkm7IAZp8)
+
+https://www.youtube.com/watch?v=5iRkm7IAZp8

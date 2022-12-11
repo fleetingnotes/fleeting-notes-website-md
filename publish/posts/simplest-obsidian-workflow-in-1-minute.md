@@ -17,4 +17,5 @@ Steps:
 4. [[posts/how-to-build-connections-in-obsidian|Links]] will only be for expanding upon a concept while writing a note. This concept can be generic concepts or highly personalized ones. Some example include:  `time is money`, `how to fold laundry my mom's way`,  `pythagorean's theorem`. That being said, one important point is to WRITE IN YOUR OWN WORDS. 
 5. Just write! Write random thoughts while on walks, browsing the internet, or doing anything. By writing more, you may finally have the best graph to show to all your friends!
 
-[![Youtube Video](https://img.youtube.com/vi/daMpFPYRexQ/0.jpg)](https://www.youtube.com/watch?v=daMpFPYRexQ)
+
+https://www.youtube.com/watch?v=daMpFPYRexQ

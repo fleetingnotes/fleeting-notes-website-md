@@ -10,5 +10,7 @@ Fleeting Notes was built ground up with Obsidian in mind. The app seamlessly [[p
 
 Anyways, I'd love to hear your feedback and if you didn't really need this or if you'll be using this ASAP! I'll be hovering the comment section. See ya :)
 
-[![Youtube Video](https://img.youtube.com/vi/jausylB4Pzw/0.jpg)](https://www.youtube.com/watch?v=jausylB4Pzw)
+
+https://www.youtube.com/watch?v=jausylB4Pzw
+
 

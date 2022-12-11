@@ -40,4 +40,5 @@ source: ""
 deleted: true
 ---
 ```
-[![Youtube Video](https://img.youtube.com/vi/iXLyEvTZp9I/0.jpg)](https://www.youtube.com/watch?v=iXLyEvTZp9I)
+
+https://www.youtube.com/watch?v=iXLyEvTZp9I
