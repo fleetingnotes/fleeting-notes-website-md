@@ -40,4 +40,4 @@ So if you're ready to take your blog to the next level, give [linked-blog-starte
 
 Demo: https://linked-blog-starter.vercel.app/home
 
-If you have any questions or feature requests, feel free to leave a comment down below or create an issue in the repository.
+If you have any questions or feature requests, feel free to leave a comment down below or create an [issue](https://github.com/matthewwong525/linked-blog-starter/issues) in the repository.
