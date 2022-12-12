@@ -29,15 +29,15 @@ Obsidian notes [work out of the box](https://linked-blog-starter.vercel.app/wor
 2. Run the backup command [using the Obsidian Git plugin](https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github)
 
 ### Customization
-[Create your own template](https://linked-blog-starter.vercel.app/deploy-a-custom-linked-blog-starter) or use someone else's! Changing the template is simple matter of [updating one line in your repository](https://linked-blog-starter.vercel.app/update-publish-settings-github-actions).
+[Create your own template](https://linked-blog-starter.vercel.app/deploy-a-custom-linked-blog-starter) or use someone else's! Changing the template is a simple matter of [updating one line in your repository](https://linked-blog-starter.vercel.app/update-publish-settings-github-actions).
 - There's also an added feature to add "PreviewLinks" to text outside of markdown files. (See the footer in the [example](https://linked-blog-starter.vercel.app/home))
 
 ### Performance
 All markdown files are [statically generated](https://linked-blog-starter.vercel.app/statically-generated) meaning loading speeds are super speedy!
 
 ## Demo + Conclusion
-So if you're ready to take your blog to the next level, give linked-blog-starter a try. You won't be disappointed.
+So if you're ready to take your blog to the next level, give [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) a try. You won't be disappointed.
 
 Demo: https://linked-blog-starter.vercel.app/home
 
-If you have an questions or feature requests, feel free to leave a comment down below or create an issue in the repository.
+If you have any questions or feature requests, feel free to leave a comment down below or create an issue in the repository.
