@@ -1,6 +1,6 @@
 ---
 id: 51ff6f20-a22f-11ec-a651-5f6a285d9d33
-title: bash script to bump the build number and tag it
+title: "bash script to bump the build number and tag it"
 notetype: feed
 date: 2022-03-12
 ---
