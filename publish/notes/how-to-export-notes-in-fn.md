@@ -1,5 +1,5 @@
 ---
-title: how to export notes in fn
+title: "how to export notes in Fleeting Notes"
 date: 2022-08-12
 lastmod: 2022-08-12
 ---
