@@ -6,7 +6,7 @@ lastmod: 2022-09-16
 ---
 One of the most common ways of capturing content from the web is by highlighting/annotating content. There are many different tools to accomplish this like Readwise, raindrop.io, and Hypothesis. These highlighting solutions are fantastic and have an easy sync with Obsidian. But there comes an issue with processing these highlights/annotations. It's not clear how to utilize or store highlights/annotations especially if it isn't something planned to be used immediately. 
 
-One key feature of Obsidian is to link notes together using [[notes/wikilinks|wikilinks]]. Wikilinks break the traditional top-down organization methods and in my opinion, has already revolutionized the note-taking space. I found this [tweet](https://twitter.com/Ixnoteapp/status/1570180150788263936) to be particularly insightful.
+One key feature of Obsidian is to link notes together using [[bi-directional links|wikilinks]]. Wikilinks break the traditional top-down organization methods and in my opinion, has already revolutionized the note-taking space. I found this [tweet](https://twitter.com/Ixnoteapp/status/1570180150788263936) to be particularly insightful.
 
 >Categorizing notes using folders and tags only works if future-you perceives the world the same way today-you does. Pray that won't be true.
 

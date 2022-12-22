@@ -9,16 +9,10 @@ But before we dive into the instructions, let's quickly go over some of the bene
 -   It provides an alternative way to [[how-to-export-notes-in-fn|back up your notes]] in Fleeting Notes.
 -   It allows you to use Fleeting Notes with other local file managers.
 
-## Setting Up Local Sync
-
+## [[setup-local-file-sync-fleeting-notes|Setting Up Local Sync]]
 Setting up local sync in Fleeting Notes is a breeze. Here's what you need to do:
 
-1.  Navigate to the app's settings by opening the drawer and clicking on "Settings".
-2.  Select a "Sync folder location".
-3.  Toggle the "Enabled" switch to turn on local sync.
-4.  (Optional) Adjust the "Sync type" and "Note template" to your liking.
-
-![[local-file-sync-settings.png]]
+![[setup-local-file-sync-fleeting-notes]]
 
 Please note that there are a few limitations to consider when using local sync:
 
