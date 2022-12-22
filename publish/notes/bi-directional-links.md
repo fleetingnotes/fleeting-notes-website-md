@@ -1,5 +1,5 @@
 ---
-title: bi-directional links
+title: "bi-directional links"
 date: 2022-09-16
 lastmod: 2022-09-16
 ---

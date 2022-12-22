@@ -49,7 +49,7 @@ print('Hows your day?')
 ```
 
 ## How to apply these concepts to your note-taking
-So you might be wondering, how can we apply these principles to note-taking? By using [[bi-directional links|wikilinks]] in your notes! Wikilinks are essentially [[notes/programming functions|functions]] but for notes.
+So you might be wondering, how can we apply these principles to note-taking? By using [[bi-directional-links|wikilinks]] in your notes! Wikilinks are essentially [[notes/programming functions|functions]] but for notes.
 
 Currently, in note-taking, most people write "[[notes/spaghetti code|spaghetti notes]]". It's no wonder most people find notes difficult to find and hard to organize.
 

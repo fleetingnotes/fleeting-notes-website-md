@@ -11,7 +11,6 @@ But where Fleeting Notes really stands out is in its ability to automatically [[
 
 But Fleeting Notes is not just a simple note-taking app. It also has a focus on building connections within my notes, similar to the concept of a "[[slip-box|slip box]]" popularized by [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann). This means that I can easily link related notes together and build a personal knowledge base, just like I can in Obsidian.
 
-
 ## Syncing FN with Obsidian
 So how do I use Fleeting Notes with Obsidian? There are two methods:
 
@@ -20,4 +19,4 @@ So how do I use Fleeting Notes with Obsidian? There are two methods:
 
 Using Fleeting Notes in tandem with Obsidian allows me to take advantage of the strengths of both tools. I can use Fleeting Notes for quick note-taking on the go, just like I can with Google Keep, and then use Obsidian to organize and structure my notes in a more meaningful way.
 
-Overall, Fleeting Notes is the perfect solution for anyone looking for a fast, flexible, and reliable way to capture quick notes with [[bi-directional links|backlinks]] and offline sync to Obsidian. Give it a try and see for yourself how it can revolutionize your note-taking workflow!
+Overall, Fleeting Notes is the perfect solution for anyone looking for a fast, flexible, and reliable way to capture quick notes with [[bi-directional-links|backlinks]] and offline sync to Obsidian. Give it a try and see for yourself how it can revolutionize your note-taking workflow!
