@@ -7,6 +7,8 @@ lastmod: 2022-09-22
 ---
 [[notes/Fleeting Notes|Fleeting Notes]] is a separate network of notes outside of Obsidian. The goal of this plugin sync both these networks of notes into one! Below are step-by-step instructions on how to do this.
 
+**Note**: If you are using Android, consider using [[how-to-setup-local-file-sync|local file sync]] to keep your notes synced.
+
 ## Installation / Setup
 1. Before you begin, you'll need to create an account in the [Fleeting Notes App](https://fleetingnotes.app/). You can do this by navigating to the settings and registering.
 ![Fleeting Notes authentication form](posts/img/fn-auth-form.png)

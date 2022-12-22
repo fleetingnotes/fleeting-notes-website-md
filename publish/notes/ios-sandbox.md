@@ -1,0 +1,1 @@
+In iOS, a sandbox is a security measure that isolates an app from accessing or modifying certain resources or data on the device. Each app on an iOS device runs in its own sandbox, which is a set of directories and permissions that defines the resources the app has access to.
