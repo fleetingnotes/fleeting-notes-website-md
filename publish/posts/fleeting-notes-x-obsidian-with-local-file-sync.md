@@ -12,7 +12,7 @@ But Fleeting Notes is not just a simple note-taking app. It also has a focus on 
 
 So how do I use Fleeting Notes with Obsidian? There are two methods:
 
-1. Enable [[setup-local-file-sync-fleeting-notes|offline local file sync]] in Fleeting Notes and sync it with your Obsidian vault (Android Only)
+1. Enable [[how-to-setup-local-file-sync|offline local file sync]] in Fleeting Notes and sync it with your Obsidian vault (Android Only)
 2. Download the Obsidian plugin and [[sync-fleeting-notes-with-obsidian|sync notes over the cloud]].
 
 Using Fleeting Notes in tandem with Obsidian allows me to take advantage of the strengths of both tools. I can use Fleeting Notes for quick note-taking on the go, just like I can with Google Keep, and then use Obsidian to organize and structure my notes in a more meaningful way.
