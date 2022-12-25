@@ -1,5 +1,5 @@
 ---
-title: "How I Publish Obsidian Notes for my SaaS Landing Page (Next.JS & Tailwind CSS)"
+title: "How I Publish Obsidian Notes for my Landing Page (Next.JS & Tailwind CSS)"
 date: 2022-12-24
 ogImage:
 	url: "/md_assets/posts/img/how-linked-blog-starter-works.md"
@@ -15,5 +15,5 @@ That's why I built my own system using Next.JS and Tailwind CSS. My ultimate goa
 Here's [[how-linked-blog-starter-works|how it works]]:
 ![[how-linked-blog-starter-works]]
 
-Let me know if there are any questions below. I'd be happy to help set it up for you if you're interested.
+Let me know if there are any questions below. I'd be happy to help set it up for you if you're interested. [Click here to get started](https://linked-blog-starter.vercel.app/home).
 
