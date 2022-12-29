@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"4cac3e39f87356e2","x":-484,"y":-38,"width":323,"height":222,"type":"text","text":"# MD Github Repository\nWhere all your Obsidian notes and files are stored. \n\n"},
-		{"id":"f09d21fb822dd0c1","x":-106,"y":-38,"width":331,"height":222,"type":"text","text":"# Github Actions\n\n\n"}
-	],
-	"edges":[
-		{"id":"762cf39dbe1528ed","fromNode":"4cac3e39f87356e2","fromSide":"right","toNode":"f09d21fb822dd0c1","toSide":"left"}
-	]
-}
