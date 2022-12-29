@@ -1,8 +1,6 @@
 ---
 title: "How I Publish Obsidian Notes for my Landing Page (Next.JS & Tailwind CSS)"
 date: 2022-12-24
-ogImage:
-	url: "/md_assets/posts/img/how-linked-blog-starter-works.md"
 ---
 I wanted to create a website for [Fleeting Notes](https://www.fleetingnotes.app/) that reflected the interconnected nature of Obsidian, with [[bi-directional-links|bi-directional links]] and interlinked blog posts. However, I struggled to find a platform that met all my requirements:
 
