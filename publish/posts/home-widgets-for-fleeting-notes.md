@@ -10,7 +10,7 @@ These apps solve the problem of quick capture, but, don't integrate well with [O
 
 Recently, I made a poll in my discord channel to ask for what features to add. To my surprise, a feature that I didn't even put on the list won the poll by an overwhelming amount: home screen widgets. Since it was so popular, I figured that people within the Obsidian community might benefit from a post like this.
 
-![[posts/img/Pasted image 20221119084225.png]]
+![[Pasted image 20221119084225.png]]
 
 ## How to add a home widget and set up sync
 

@@ -8,4 +8,4 @@ I've said it before, but [[posts/put-quick-notes-into-obsidian-from-anywhere|tak
 
 But it doesn't end there. Previously, before v0.3.2 of the plugin, sync only occurred after running the "sync command" or by enabling the "sync on startup". In other words, to trigger the sync, you'd need to manually re-open the application or call the sync command. As of v0.3.2 of the plugin, there is now support for automatic note sync with Obsidian! With this, there is no more need to worry about keeping notes synced!
 
-![Auto sync in settings](posts/img/auto-sync-fleeting-notes.png)
+![Auto sync in settings](auto-sync-fleeting-notes.png)

@@ -10,7 +10,7 @@ When syncing Fleeting Notes to Obsidian, it's often desirable to only sync certa
 
 To enable this feature, go into the Fleeting Notes settings and find the setting to "Notes filter text". Add whatever notes filter you desire, then perform the [[posts/sync-fleeting-notes-with-obsidian|sync]]!
 
-![Notes filter text setting](posts/img/notes-filter-text.png)
+![Notes filter text setting](notes-filter-text.png)
 
 This can be applied to numerous scenarios:
 - Sync different Fleeting Notes to multiple Obsidian vaults
