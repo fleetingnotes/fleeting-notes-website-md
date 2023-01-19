@@ -6,7 +6,7 @@ lastmod: 2022-07-20
 ---
 Privacy and security are a big concern for many users. Especially with something as personal as note-taking this is doubly important. In a survey within my [discord channel](https://discord.gg/xrj6yuGNmx), for every person that wanted markdown support in Fleeting Notes, 7 people wanted [[notes/end-to-end encryption|end-to-end encryption]]. With such high demand for [[notes/end-to-end encryption|E2EE]], I had no choice but to work hard to add this crucial feature into the application.
 
-![end-to-end encryption discord poll](e2e-discord-poll.png)
+![[e2e-discord-poll.png|end-to-end encryption discord poll]]
 
 ## Enabling E2EE in Fleeting Notes
 1. Navigate to the settings in the Fleeting Notes application 

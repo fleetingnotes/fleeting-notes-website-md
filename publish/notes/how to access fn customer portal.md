@@ -5,7 +5,7 @@ lastmod: 2022-08-12
 ---
 1. Go to https://payments.fleetingnotes.app
 2. Log in to your account, then click "Access customer portal" (and give it some time to load)
-![payments portal](payments-portal.png)
+![[payments-portal.png|payments portal]]
 4. Now in the customer portal you will be able to:
 	   - Cancel your subscription
 	   - View receipts / invoices

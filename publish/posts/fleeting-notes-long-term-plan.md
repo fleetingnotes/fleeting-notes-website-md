@@ -12,6 +12,6 @@ Our idea of [[posts/simplest-way-to-use-zettelkasten-for-note-management|a simpl
 
 Currently, the majority of people use Fleeting Notes as an entry point for their ideas or notes. But our vision for Fleeting Notes is a one-stop shop to quickly capture and organize all notes. We want it to be so easy to use, intuitive, and powerful knowledge management tool with the option to extend to other note-taking tools. Apps like Apple Notes are easy-to-use but aren't equipped to deal with knowledge management. However, there are many that try. Here's a [meme from reddit](https://www.reddit.com/r/ObsidianMD/comments/wbtczk/pkms_in_a_nutshell/) as proof.
 
-![mid wit meme note-taking](mid-wit-meme-note-taking.png)
+![[mid-wit-meme-note-taking.png|mid wit meme note-taking]]
 
 These plans are for much further down the line (like multiple years). In the coming months, we'll focus on improving integration with Obsidian (plus potentially other note-taking tools) and creating better user experiences.

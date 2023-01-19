@@ -11,7 +11,7 @@ My number one recommendation is to **NOT process Fleeting Notes within Obsidian*
 
 Additionally, there is a way to [[notes/How to copy Obsidian links to Fleeting Notes|copy Obsidian links to Fleeting Notes]] for more relevant link suggestions. 
 
-![Link suggestions in Fleeting Notes](link-suggestion-fn.png)
+![[link-suggestion-fn.png|Link suggestions in Fleeting Notes]]
 
 ## 2. Using the "Insert Unprocessed Notes" Command
 The "[[posts/how-to-process-fleeting-notes-in-obsidian|Insert Unprocessed Notes]]" command is built into the Fleeting Notes Sync plugin and it creates a checklist of notes that are "unprocessed". Unprocessed notes are fleeting notes that aren't "checked" within a checklist. Using this takes advantage of the links within Obsidian and allows you to reference Fleeting Notes wherever you please.
@@ -25,7 +25,7 @@ Another workflow is to delete the processed notes directly from the folder where
 
 If you're using this process ensure to set the "Sync Type" in the settings to "One-way sync + Delete from FN" (This will delete all notes within Fleeting Notes once synced to Obsidian). Otherwise, deleted notes will be repopulated on sync.
 
-![Sync types in Fleeting Notes Sync plugin](sync-types.png)
+![[sync-types.png|Sync types in Fleeting Notes Sync plugin]]
 
 To selectively delete notes from Obsidian, go to the settings and set the "Sync Type" to "Two-way sync" and add the  `deleted: true`  to the metadata of the note. Once this flag is added, the next time the sync command is run the note will be deleted from the Fleeting Notes app.
 

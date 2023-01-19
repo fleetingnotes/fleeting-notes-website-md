@@ -14,7 +14,7 @@ There are a lot of things I like about [[notes/Zettelkasten|Zettelkasten]], but 
 
 On top of a complicated setup, this tri-system approach **adds limitations and friction** when using Zettelkasten. For example, transferring notes from the inbox to the archive. This process is a *requirement*, [[notes/the illusion of choice|not an option]]. In other words, we'll *need* to regularly transfer items from my inbox to the archive. For some, this additional step is a deal-breaker. On the flip side, the option of writing directly to the note archive (skipping the inbox) typically [[posts/writing-quick-notes-in-obsidian|adds additional friction]]. 
 
-![Zettelkasten Workflow](zettelkasten-workflow.png)
+![[zettelkasten-workflow.png|Zettelkasten Workflow]]
 
 ## Finding a better solution
 At its core, Zettelkasten can be distilled into [[notes/two principles of zettelkasten|two principles]]

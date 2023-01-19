@@ -6,7 +6,7 @@ lastmod: 2022-08-12
 **Note**: If you can't find the exported files, you can also use [[how-to-setup-local-file-sync|local file sync]] to export your files in markdown. 
 
 1. Go to the settings and select export format (Markdown or JSON)
-![export fleeting notes](export-fn.png)
+![[export-fn.png|export fleeting notes]]
 2. Click the Export button
 3. The file location of the exported files:
 	- **Web App / Browser Ext:** downloads folder
