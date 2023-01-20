@@ -3,7 +3,7 @@ title: Fleeting Notes Roadmap
 date: 2022-09-10
 lastmod: 2022-10-08
 ---
-See [my github project](https://github.com/orgs/fleetingnotes/projects/1/views/2) for the most up to date timeline:
+See [my github project](https://github.com/orgs/fleetingnotes/projects/1/) for the most up to date timeline:
 
 ## In Progress (Coming in 1-3 weeks)
 - Material UI 3 Flutter Redesign
