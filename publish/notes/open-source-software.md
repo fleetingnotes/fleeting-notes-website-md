@@ -6,4 +6,4 @@ date: 2023-01-14
 
 
 Source: https://www.oxfordlearnersdictionaries.com/definition/american_english/open-source
-Fleeting Notes Source: https://github.com/fleetingnotes/fleeting-notes-flutter
+Fleeting Notes source: https://github.com/fleetingnotes/fleeting-notes-flutter
