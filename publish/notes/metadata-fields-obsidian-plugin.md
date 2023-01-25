@@ -1,5 +1,5 @@
 ---
-title: "Supported metadata fields in Obsidina plugin"
+title: "Supported metadata fields in Obsidian plugin"
 date: 2023-01-25
 ---
 `${id}` : the id of the note used for sync (required)
