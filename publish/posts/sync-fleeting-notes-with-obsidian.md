@@ -17,6 +17,7 @@ lastmod: 2022-09-22
 
 3. Click "Browse" and search for "Fleeting Notes Sync"
 ![[fleeting-notes-sync-2.png|Browse Community Plugins]]
+![[fleeting-notes-sync-2.png]]
 
 4. Install the plugin and ensure you have it enabled
 ![[fleeting-notes-sync-1.png|Ensure Plugin Enabled]]
