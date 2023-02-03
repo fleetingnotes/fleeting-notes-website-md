@@ -1,5 +1,5 @@
 ---
-title: "My Journey towards a new UI"
+title: "My journey towards a new user interface"
 date: 2023-02-02
 ---
 One thing I learned from building a new UI is that it's not possible to build a UI in one go and have it deployed to the user. The reason being that major UI changes forces users to relearn the user interface making for a bad experience. So, as much as I wish to throw the new UI out there immediately, I'll need to go through multiple stages of internal / beta testing before I put it out in the wild. 
@@ -8,4 +8,4 @@ When I first tried to design a UI by myself I had a [grand plan](https://www.you
 ![[temp-new-ui.png]]
 As of this writing, I'm currently waiting for my UI designer to get back to me with some new iterations of the UI. The plan is to continue to iterate on the design up until Feb 10 and finalize the design there. Once I do that I'll need to integrate that into the app which will take a few days and I estimate we'll have the new UI released mid-late february.
 
-By the way, if you're interested in doing some beta testing, [schedule a meeting]() with me for some UI testing trials!
+By the way, if you're interested in doing some beta testing, [schedule a meeting](https://usemotion.com/meet/ithinkwong/meeting?d=30) with me for some UI testing trials!
