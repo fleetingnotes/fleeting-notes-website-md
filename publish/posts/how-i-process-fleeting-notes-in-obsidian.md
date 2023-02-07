@@ -11,13 +11,20 @@ I get a lot of questions asking how I process Fleeting Notes once they land in O
 ````
 ## Notes
 - 
+
 ## Fleeting Notes
 ```dataview
-
+LIST
+FROM "FleetingNotesApp"
+WHERE created_date = date(2023-02-01) 
 ```
 
 ## Tasks from Fleeting Notes
+```dataview
+TASK
+FROM "FleetingNotesApp"
+WHERE !completed
+```
 ````
-
 
 This method takes advantage of the daily notes and the dataview plugin. If you don't happen to use daily notes, I'm sure it won't be too much trouble to adapt the dataview plugin query to your workflow.
