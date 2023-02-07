@@ -1,5 +1,5 @@
 ---
-title: "Enable keyboard shortcuts for the Fleeting Notes browser extension"
+title: "How to enable keyboard shortcuts for browser extensions"
 date: 2023-02-07
 ---
 Credits to this page: https://www.makeuseof.com/open-browser-extensions-keyboard-shortcut/
