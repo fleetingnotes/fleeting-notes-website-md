@@ -29,3 +29,5 @@ WHERE !completed
 ````
 
 Now with this template, I can see all the Fleeting Notes I've created for the day and the leftover tasks that I've created for myself in Fleeting Notes. What's great about this is that the Dataview queries are fully customizable and can be changed to fit whatever workflow you have. 
+
+https://youtu.be/spqVolFtPws
