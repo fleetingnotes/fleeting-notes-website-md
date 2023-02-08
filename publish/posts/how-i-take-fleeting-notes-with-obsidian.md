@@ -4,10 +4,11 @@ date: 2023-02-06
 ---
 I get a lot of questions asking how I process Fleeting Notes once they land in Obsidian. There are many ways to approach this but here's the best method I found for myself.
 
-1. Install the [Obsidian Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin
-2. Enable the Daily Notes plugin in the Obsidian settings (Also, check out [[simplest-obsidian-workflow-in-1-minute|how I use daily notes in Obsidian]])
-3. Create a template file for the daily notes, and add the path of the file to the `Template file location`
-4. Here's the template I use: 
+1. Setup [[sync-fleeting-notes-with-obsidian|Obsidian sync with Fleeting Notes]]
+2. Install the [Obsidian Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin
+3. Enable the Daily Notes plugin in the Obsidian settings (Also, check out [[simplest-obsidian-workflow-in-1-minute|how I use daily notes in Obsidian]])
+4. Create a template file for the daily notes, and add the path of the file to the `Template file location`
+5. Here's the template I use: 
 ````
 ## Fleeting Notes
 ```dataview

@@ -36,4 +36,4 @@ lastmod: 2022-09-22
 2. Your notes will be synced with Fleeting Notes and you will get a notification!
 ![[fleeting-notes-sync-7.png|Sync Notification]]
 ## Next Steps
-Now that you have your notes synced, see the [[posts/3-ways-to-process-fleeting-notes-within-obsidian|3 Ways to Process Fleeting Notes within Obidian]]
+Now that you have your notes synced, see [[how-i-take-fleeting-notes-with-obsidian|how I process my Fleeting Notes]] and [[how-to-sync-obsidian-links-into-fleeting-notes|how to sync Obsidian links into Fleeting Notes]]
