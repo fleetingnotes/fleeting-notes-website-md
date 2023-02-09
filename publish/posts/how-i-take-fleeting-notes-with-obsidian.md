@@ -14,7 +14,7 @@ I get a lot of questions asking how I process Fleeting Notes once they land in O
 ```dataview
 LIST
 FROM "FleetingNotesApp"
-WHERE created_date = date({{date}}) 
+WHERE created_date = date({{title}}) 
 ```
 
 ## Tasks from Fleeting Notes
@@ -28,6 +28,6 @@ WHERE !completed
 
 ````
 
-Now with this template, I can see all the Fleeting Notes I've created for the day and the leftover tasks that I've created for myself in Fleeting Notes. What's great about this is that the Dataview queries are fully customizable and can be changed to fit whatever workflow you have. 
+Now with this template, I can see all the Fleeting Notes I've created for the day and the leftover tasks that I've created for myself in Fleeting Notes. What's great about this is that the [Dataview queries are fully customizable](https://blacksmithgu.github.io/obsidian-dataview/) and can be changed to fit whatever workflow you have. 
 
 https://youtu.be/spqVolFtPws
