@@ -1,5 +1,5 @@
 ---
-title: "Streamline Your Note-Taking with Fleeting Notes and Obsidian Link Suggestions"
+title: "Streamline Note-Taking with Fleeting Notes and Obsidian Link Suggestions"
 date: 2023-02-16
 ---
 As someone who uses Obsidian, I understand how [[put-quick-notes-into-obsidian-from-anywhere|difficult]] it can be to take quick notes on the go without losing your focus on the task at hand. That's why I created Fleeting Notes, a scratchpad that automatically [[sync-fleeting-notes-with-obsidian|syncs with your Obsidian vault]].

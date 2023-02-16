@@ -9,4 +9,4 @@ date: 2023-02-03
 ![[sync-obsidian-links.png]]
 4. Once you've enabled it, in Fleeting Notes you should see a new note titled "Links from Obsidian" within the Fleeting Notes app.
 ![[links-from-obsidian.png]]
-5. Now whenever you type `[[` , you will get the same link suggestions as you would see in Obsidian.
+5. Now whenever you type `[[` , you will get the same link suggestions you see in Obsidian.
