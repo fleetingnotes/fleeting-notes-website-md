@@ -8,7 +8,7 @@ I get a lot of questions asking how I process Fleeting Notes once they land in O
 2. Install the [Obsidian Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin
 3. Enable the Daily Notes plugin in the Obsidian settings (Also, check out [[simplest-obsidian-workflow-in-1-minute|how I use daily notes in Obsidian]])
 4. Create a template file for the daily notes, and add the path of the file to the `Template file location`
-5. Here's the template I use: 
+5. Here's the template I use ([[adjusted-template-for-weekly-notes|adjusted template for weekly notes]]): 
 ````
 ## Fleeting Notes
 ```dataview
