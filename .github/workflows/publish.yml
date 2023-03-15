@@ -3,6 +3,7 @@ env:
   BLOG_REPO: fleetingnotes/fleeting-notes-website
   PUBLISH_DIR: publish
 on:
+  workflow_dispatch:
   push:
     branches: [main]
 jobs:
