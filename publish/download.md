@@ -1,6 +1,7 @@
 ---
 title: Download
 permalink: /download
+test: "This is the ninth in a series of lectures, intended for first-year college students, tentatively titled \"How to Do Well in College.\" This lecture, however, a..."
 ---
 Don't want to download anything? Try the [web app](https://my.fleetingnotes.app)
 # Download Links
