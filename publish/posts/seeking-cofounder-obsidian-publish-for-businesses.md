@@ -32,4 +32,4 @@ The proof of concept? I've already designed a custom solution, an MVP, for the F
 
 ## Let's Do This Together
 
-Ready to join me on this thrilling ride? If yes, [fill in this form](https://chat.openai.com/?model=gpt-4#) and I'll reach out. Together, let's reshape how businesses manage documentation!
+Ready to join me on this thrilling ride? If yes, [fill in this form](https://forms.gle/RAuAGMGs6V45yNWn7) and I'll reach out. Together, let's reshape how businesses manage documentation!
