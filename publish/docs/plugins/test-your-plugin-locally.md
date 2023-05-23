@@ -14,5 +14,9 @@ serve(myPlugin);
 deno run --allow-all webserver.ts
 ```
 3. Once the webserver is up and running go to http://localhost:8000 to call the function you created in `index.ts`
+4. Here is an example curl request to get you started
+```
+curl -d '{"metadata":"some metadata", "note":{"title":"title","content":"content","source":"source"}}' -H "Content-Type: application/json" -X POST http://localhost:8000/
+```
 
  See [plugins/community/example](https://github.com/fleetingnotes/fleeting-notes-plugins/blob/main/plugins/community/example/index.ts) as an example
