@@ -2,7 +2,7 @@
 title: "Create your own plugin"
 date: 2023-05-23
 ---
-1. Fork this repository 
+1. Fork this [repository](https://github.com/fleetingnotes/fleeting-notes-plugins) 
 2. Create a folder to `plugins/community` in your fork. Use dashes to seperate words when naming this folder.
 3. In the folder you created, add a file `index.ts`
 4. Create a function within `index.ts` to that takes in the [[plugin-request|Request]] as a parameter and returns a [[plugin-response|Response]]. For example:
