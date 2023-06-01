@@ -1,5 +1,5 @@
 ---
-title: "Add a plugin"
+title: "Add your first plugin"
 date: 2023-05-31
 ---
 1. Find a plugin you want to add, either a [community plugin](https://github.com/fleetingnotes/fleeting-notes-plugins/tree/main/plugins/community) or an [official plugin](https://github.com/fleetingnotes/fleeting-notes-plugins/tree/main/plugins/official). (official plugins are officially supported plugins)

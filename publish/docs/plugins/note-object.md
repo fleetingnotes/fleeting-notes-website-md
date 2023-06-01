@@ -1,5 +1,5 @@
 ---
-title: "The note object"
+title: "Note Object"
 date: 2023-05-23
 ---
 **NOTE**: this object is subject to change 

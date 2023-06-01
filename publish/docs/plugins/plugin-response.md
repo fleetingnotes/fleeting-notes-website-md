@@ -1,5 +1,5 @@
 ---
-title: "How Fleeting Notes handles responses from plugins"
+title: "Sending Responses"
 date: 2023-05-23
 ---
 **NOTE:** The way Fleeting Notes handles responses is subject to change. This document will be updated accordingly.

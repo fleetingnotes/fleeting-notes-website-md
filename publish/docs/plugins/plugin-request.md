@@ -1,5 +1,5 @@
 ---
-title: "How Fleeting Notes sends requests to plugins"
+title: "Receiving Requests"
 date: 2023-05-23
 ---
 **NOTE:** The way Fleeting Notes sends requests is subject to change. This document will be updated accordingly.
