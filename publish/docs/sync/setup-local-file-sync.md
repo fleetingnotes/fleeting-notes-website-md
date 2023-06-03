@@ -1,5 +1,5 @@
 ---
-title: "Setup local file sync"
+title: "Setup Local File Sync"
 date: 2022-12-22
 ---
 **Note**: Local file sync is **unavaiable on the web** due to browser restrictions
