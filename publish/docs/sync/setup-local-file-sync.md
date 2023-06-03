@@ -1,7 +1,9 @@
 ---
-title: "Setup Local File Sync in Fleeting Notes"
+title: "Setup local file sync"
 date: 2022-12-22
 ---
+**Note**: Local file sync is **unavaiable on the web** due to browser restrictions
+
 1.  Navigate to the app's settings by opening the drawer and clicking on "Settings".
 2.  Select a "Sync folder location".
 3.  Toggle the "Enabled" switch to turn on local sync.

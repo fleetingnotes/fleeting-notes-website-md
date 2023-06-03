@@ -7,7 +7,7 @@ If you're a fan of Google Keep, you know how useful it can be for capturing quic
 ## What is Fleeting Notes?
 I created Fleeting Notes as a note-taking app that is similar to Google Keep in many ways. It allows me to quickly jot down ideas, thoughts, and to-dos in a fast and effortless manner, and it's accessible from any device (even as a [browser extension](https://chrome.google.com/webstore/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc)).
 
-But where Fleeting Notes really stands out is in its ability to automatically [[setup-local-file-sync-fleeting-notes|sync with Obsidian completely offline]], thanks to its local file storage sync feature. This means that I can access and edit my Fleeting Notes even when I'm not connected to the internet, just like I can with Google Keep.
+But where Fleeting Notes really stands out is in its ability to automatically [[setup-local-file-sync|sync with Obsidian completely offline]], thanks to its local file storage sync feature. This means that I can access and edit my Fleeting Notes even when I'm not connected to the internet, just like I can with Google Keep.
 
 But Fleeting Notes is not just a simple note-taking app. It also has a focus on building connections within my notes, similar to the concept of a "[[slip-box|slip box]]" popularized by [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann). This means that I can easily link related notes together and build a personal knowledge base, just like I can in Obsidian.
 
