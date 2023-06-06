@@ -2,9 +2,9 @@
 title: "AI Webpage Summarizer for Obsidian"
 date: 2023-06-06
 ---
-Have you ever stumbled upon an article while browsing the web and thought, "Man, I wish I could get a summary of this article right into Obsidian!" Well, now you can! With the amazing Fleeting Notes plugin, [summarizing web articles](https://github.com/fleetingnotes/fleeting-notes-plugins/blob/main/plugins/official/summarize-source/README.md) and seamlessly integrating them into your notes has never been easier.
+Have you ever stumbled upon an article while browsing the web and thought, "Man, I wish I could get a summary of this article right into Obsidian!" Well, now you can! With the amazing Fleeting Notes plugin, summarizing web articles and seamlessly integrating them into your notes has never been easier.
 
-Here's how it works: simply open the Fleeting Notes browser extension, then run the plugin command `summarize-source`. The command fetches the content of the article, condenses it into bite-sized bullet points, and automatically populates your note with the summaried bullet points. 
+Here's how it works: simply open the Fleeting Notes browser extension, then run the plugin command `summarize-source`. The command fetches the content of the article, condenses it into bite-sized bullet points, and automatically populates your note with the summaried bullet points. You can find [instructions to set it up here](https://github.com/fleetingnotes/fleeting-notes-plugins/blob/main/plugins/official/summarize-source/README.md). 
 
 [Click here to see a demo in a tweet!](https://twitter.com/fleetingnotes_/status/1666170276566974464?s=20)
 
