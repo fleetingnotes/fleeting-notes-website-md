@@ -10,7 +10,7 @@ However, to make that leap, I need to put more of the profits back into the busi
 
 Despite the progress we've made, Fleeting Notes is currently only bringing in a few hundred dollars a month. It's a start, but it's not enough to properly compensate my hardworking teammate, Gonzalo (Big shout out to you, Gonzalo!). That's why I'm turning to **you**, my incredible users, to help us grow.
 
-My first plan of action? Encouraging users to switch to an annual subscription. This approach will give us the much-needed funds upfront, which can go towards paying Gonzalo for his stellar work. To facilitate this, I'm offering a limited-time discount on annual plans (25% off) for those who want to switch from their current monthly plan. Simply head over to the payments portal and update your plan. Keep in mind, though, this offer is only available to our existing subscribers.
+My first plan of action? Encouraging users to switch to an annual subscription. This approach will give us the much-needed funds upfront, which can go towards paying Gonzalo for his stellar work. To facilitate this, I'm offering a **limited-time discount on annual plans (25% off)** for those who want to switch from their current monthly plan. Simply head over to the payments portal and update your plan. Keep in mind, though, this offer is only available to our existing subscribers.
 
 1. Go to https://payments.fleetingnotes.app
 2. Login and see the customer portal, and click "Update Plan"
