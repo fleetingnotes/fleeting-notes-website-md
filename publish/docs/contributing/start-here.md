@@ -8,5 +8,4 @@ Here is a list of guides that will be helpful to get started with contributing t
 
 ## Further Reading:
 - [[release-new-version|Release a new version]]
-- 
 

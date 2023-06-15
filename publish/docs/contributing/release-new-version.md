@@ -1,3 +1,7 @@
+---
+title: "Release a New Version"
+date: 2023-06-15
+---
 1. Checkout a new in the format `version-x.x.x`
 2. Run the bumpversion script and specify version number
 ```
