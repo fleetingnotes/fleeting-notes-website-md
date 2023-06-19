@@ -19,11 +19,3 @@ git push --tags
 	3. **For Safari**: Run `./build_web_ext.sh`, then open `safari` folder in XCode and go to Product > Archive. 
 6. Create a [github release](https://github.com/fleetingnotes/fleeting-notes-flutter/releases) and add the CHANGELOG to the description. 
 7. Merge the PR and publish the github release once you send everything to review and you've gone through the release checklist
-
-## Release Checklist:
-- [ ] iOS (https://appstoreconnect.apple.com/apps/1615226800/appstore/ios/version/inflight)
-- [ ] Android (https://play.google.com/console/u/0/developers/5327230890052241772/app/4976191625623411474/tracks/production)
-- [ ] Firefox (https://addons.mozilla.org/en-CA/developers/addon/fleeting-notes/versions/submit/)
-- [ ] Chrome (https://chrome.google.com/webstore/devconsole/4d8ee7e3-234d-4403-85bb-2b633b407fbb/gcplhmogdjioeaenmehmapbdonklmdnc/edit/package?hl=en)
-- [ ] Web (https://app.netlify.com/sites/my-fleetingnotes/deploys)
-- [ ] Safari (https://appstoreconnect.apple.com/apps/1669824754/testflight/macos)
