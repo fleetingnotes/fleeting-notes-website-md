@@ -17,7 +17,3 @@ And that's it! You'll now  that your note has been created in Obsidian, complete
 I hope this blog post has been helpful for you. Using Fleeting Notes has really improved my note-taking and productivity, and I hope it does the same for you. If you want to learn more about [[sync-fleeting-notes-with-obsidian|syncing Fleeting Notes with Obsidian]] or other productivity hacks, be sure to check out our other [blog posts](https://www.fleetingnotes.app/posts/1) and [videos](https://www.youtube.com/@ithinkwong).
 
 Thanks for reading!
-- [x] asdfasdf
-- [ ] 
-
-  - alksdfj

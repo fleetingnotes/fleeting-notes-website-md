@@ -1,0 +1,8 @@
+- Ever took a screenshot of a web page or wanted to take a quick snap of a note and then transcribe it into text? Well look no further. 
+- As of v0.10.4 of Fleeting Notes, I've added quick commands to easily record notes, take pictures and create checklists from the homescreen of Fleeting Notes.
+- And with this I'd also like to introduce the image-to-text plugin (otherwise known as OCR). With this plugin, you can easily snap a photo, put it in Fleeting Notes and then run the command to extract the text out of the image! 
+- Now this plugin provides a new quick way of capturing information into Obsidian. Upload or take a photo, then quickly extract the text
+- How to set it up
+	- [Add a plugin](https://www.fleetingnotes.app/docs/plugins/add-a-plugin)
+	- Set the command id as `official/ocr-source`, and optionally set the alias
+	- adsf
