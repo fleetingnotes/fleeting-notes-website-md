@@ -16,4 +16,4 @@ Here's how it works, broken down into a few easy steps:
 
 And there you have it - the ability to extract text from images, right in your Fleeting Notes app. It's a little bit like magic, isn't it? But really, it's just us doing our best to make Fleeting Notes as handy and versatile as possible for you.
 
-Try it out and see how much easier it makes things. Whether you're a student compiling study notes, a writer collecting quotes, or just someone who loves capturing and sharing interesting bits of text, this OCR plugin is going to be your new best friend. Happy note-taking!
+By the way, checkout how to [[sync-fleeting-notes-with-obsidian|how to sync Fleeting Notes with Obsidian]] if you haven't already!
