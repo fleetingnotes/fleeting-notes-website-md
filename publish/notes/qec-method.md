@@ -10,3 +10,5 @@ The Q/E/C method stands for "Question, Evidence, Conclusion" and it's a structur
 - **Conclusion**: Note down the conclusion or summary that the material presents based on the evidence.
 
 This method turns passive reading into an active process. By searching for questions, evidences, and conclusions, you engage with the material on a deeper level, which aids understanding and retention.
+
+hello world

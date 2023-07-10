@@ -2,22 +2,25 @@
 title: "{{title}}"
 date: {{date}}
 ---
-An attention seeking sentence.
-- **A insightful hook that summarizes the article** and some context about the article to make it a good summary 
-- **A insightful hook that summarizes the article** and some context about the article to make it a good summary 
-- **A insightful hook that summarizes the article** and some context about the article to make it a good summary.
+blurb
 
-Have any questions or concerns? Don't hesitate to hit that reply button
+- 
+- 
+- 
 
-## Article1 (maybe my vision of the future or some thing)
+# What's new and what's to come
+blurb
 
-## Shiny New Features / Bug Fixes
-talk about some new features
+## Released / In the next Release
+- 
 
-## Personal Update
-I earned shit ton of money this week. 
+## Upcoming
+- 
 
-Some Probing Quesitons:
-- Update on MRR
-- Update on how I'm feeling, am I motivated?
-- My vision 
+For full details, on what I'm working on checkout the [roadmap](https://github.com/orgs/fleetingnotes/projects/1)
+
+# Article
+blurb
+
+# Personal Update
+blurb
