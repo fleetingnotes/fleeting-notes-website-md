@@ -1,0 +1,18 @@
+-  TLDR; I released early, wasn't afraid of rejection (through reddit), posted everywhere, and wasn't afraid of rejection! Learned that I needed to
+- Tried to target the zettelkasten niche. 
+
+- From my experience working on SynchroCise my previous idea, I realized that I needed to work on something I cared about and I needed to start with the problem and not the solution.
+- So in this time, I was thinking of problems I faced in my life. One problem that resonated with me was the lack of the ability to take down a quick thought and have it be useful in the future.
+- Right now, when taking quick notes from Apple Notes or Google Keep, I would take down the note but as I took more notes, the old note would be buried in a pile of new notes and I wouldn't be able to resurface the note I needed when I needed it.
+- I think I have ADHD (self-diagnosed) and I always want to write down things that come to mind because I know if I don't write things down they'll be gone forever. 
+- So I wanted a system that would allow me to quickly jot notes down and have a system to resurface notes that come up in the future. This was my vision. 
+- My solution for this vision was to utilize the power of backlinks in quick note-taking. I've recently got into taking networked notes and I believed (and still believe) that building connections between your notes is the future of note-taking. By using networked notes, notes resurface themselves automatically  
+- Also, Fleeting Notes perfectly encompassed my vision so I decided to name my application that. 
+- Through my experience watching all the YC videos, I learned a thing or two about startups. One thing I knew was I needed to start with a niche. My niche was specific users who used the Zettelkasten method and were users of Obsidian. 
+- My MVP consisted of a product that allowed you to take notes quickly from within my app and build links between their notes (like wikipedia)
+- So I spent a month or two putting together my first version, I did a bunch of user surveys, wrote a bunch of blog posts in preparation for the release and saved a lot of articles where people experience this problem.
+- I was ready to launch my product and have it be a huge success! I was going to be super successful and I'd be able to quit my job to pursue this full-time!
+- But when I released it. Nothing happened. I got little to no response and people didn't really have a big need for it.
+- I was a little bit shocked considering how much prep work I did. I thought I followed all the steps, but it turns out I was lying to myself. 
+- I was down, but I wasn't defeated. I knew this was a problem for myself so using that as my north star I pushed forward and tried to better understand exactly the problem I faced.
+- Anyways, find out how I pivot myself into a product people wanted. 
