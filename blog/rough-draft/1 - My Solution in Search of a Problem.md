@@ -1,3 +1,4 @@
+Good copy: [[Embracing New Paths - From Side Project to Resignation (Part 1)]]
 - TLDR: I never had big goals to be an entrepreneur, I just wanted to build cool things. Moral of the story here is to release stuff into market ASAP and build something you care about! 
 
 - get a lot of questions asking me about how and why i quit my full-time job. i want to write this to maybe inspire other people to do the same or for people to just read a good story.
