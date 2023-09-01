@@ -2,6 +2,7 @@
 description: I embarked on an entrepreneurial journey with SynchroCise, an app born from a hackathon win. Despite the initial excitement, market realities and continuous pivots highlighted the importance of genuine passion and starting with a real-world problem. While SynchroCise didn't make it to the market, the lessons learned paved the way for my next venture, Fleeting Notes.
 permalink: blog/side-project-to-resignation-part-1
 publish: true
+date: 2023-08-23
 ---
 **TL;DR:** I embarked on an entrepreneurial journey with SynchroCise, an app born from a hackathon win. Despite the initial excitement, market realities and continuous pivots highlighted the importance of genuine passion and starting with a real-world problem. While SynchroCise didn't make it to the market, the lessons learned paved the way for my next venture, Fleeting Notes.
 

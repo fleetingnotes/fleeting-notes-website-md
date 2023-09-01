@@ -11,4 +11,4 @@
 - There was nothing major, but through user conversations and deep reflection, I learned that a huge value proposition for me was the automatic sync to Obsidian
 - At this time, my product was more focused on the linking side within the app + quick note-taking and I wanted to keep it that way, but what I realized was that all of that was trivial and my main problem was getting the quick notes into Obsidian.
 - Until I made my post "Google Keep but for Obsidian". In this post, I got a huge amount of traction and a ton of user sign ups. Even to this day, I get a lot of traffic coming from this post (thanks to SEO). I even got a few paying users which was super duper exciting!
-- 
+- Turns out 

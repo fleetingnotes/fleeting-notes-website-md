@@ -14,7 +14,7 @@ Recently, I made a poll in my discord channel to ask for what features to add. T
 
 ## How to add a home widget and set up sync
 
-1. [[download|Download]] Fleeting Notes on your device (iOS or Android)
+1. [[publish/download|Download]] Fleeting Notes on your device (iOS or Android)
 2. Add the home widget on [iOS](https://support.apple.com/en-ca/HT207122) or [Android](https://support.google.com/android/answer/9450271?hl=en#zippy=)
 3. Install the Fleeting Notes plugin within Obsidian and [[posts/sync-fleeting-notes-with-obsidian|set up sync]], or just setup [[posts/alternative-sync-local-only-for-fn|local sync with the filesystem]]
 4. Take notes from the home widget and watch them populate in Obsidian
