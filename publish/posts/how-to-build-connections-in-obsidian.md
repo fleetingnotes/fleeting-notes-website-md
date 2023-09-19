@@ -9,7 +9,7 @@ So you've built a [[posts/simplest-obsidian-workflow-in-1-minute|fantastic note-
 - When do I create links or notes?
 - How do I title notes?
 
-In the next minute, I'll answer all of these questions and provide a process for creating and connecting notes. This workflow is heavily inspired by the [[notes/Zettelkasten|Zettelkasten]] method.
+In the next minute, I'll answer all of these questions and provide a process for creating and connecting notes. This workflow is heavily inspired by the [[publish/notes/Zettelkasten|Zettelkasten]] method.
 
 ## Why do I want to [[notes/connecting ideas is powerful|connect notes]]?
 - It allows us to:

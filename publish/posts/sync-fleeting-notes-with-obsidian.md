@@ -9,7 +9,7 @@ lastmod: 2022-09-22
 
 Also, checkout my [youtube video](https://youtu.be/G7IqdYC5WGA) if you like that format better.
 
-![[setup-cloud-obsidian-sync]]
+![[Setup Obsidian cloud sync]]
 
 ## Next Steps
 Now that you have your notes synced, see [[how-i-take-fleeting-notes-with-obsidian|how I process my Fleeting Notes]] and [[how-to-sync-obsidian-links-into-fleeting-notes|how to sync Obsidian links into Fleeting Notes]]

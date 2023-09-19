@@ -6,7 +6,7 @@ date: 2022-04-20
 lastmod: 2022-04-22
 ---
 ## Zettelkasten is Complicated
-There are a lot of things I like about [[notes/Zettelkasten|Zettelkasten]], but one thing I don't like is how complicated it is to set up. According to the [building blocks of Zettelkasten blog post](https://zettelkasten.de/posts/zettelkasten-building-blocks/),  a typical Zettelkasten system consists of an inbox, an archive, and a reference database. 
+There are a lot of things I like about [[publish/notes/Zettelkasten|Zettelkasten]], but one thing I don't like is how complicated it is to set up. According to the [building blocks of Zettelkasten blog post](https://zettelkasten.de/posts/zettelkasten-building-blocks/),  a typical Zettelkasten system consists of an inbox, an archive, and a reference database. 
 
 - **Inbox**: the gateway into your knowledge system (e.g. Google Notes, Email, Apple Notes, etc.)
 - **Archive**: the one, trusted place to look for information (e.g. Obsidian, Roam Research, etc.)

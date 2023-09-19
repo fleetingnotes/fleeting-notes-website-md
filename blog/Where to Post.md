@@ -1,3 +1,0 @@
-- [Reddit (entrepreneur ride along reddit)](https://www.reddit.com/r/EntrepreneurRideAlong/)
-- [Indiehackers](https://www.indiehackers.com/new-post)
-- [LinkedIn](https://www.linkedin.com/feed/)

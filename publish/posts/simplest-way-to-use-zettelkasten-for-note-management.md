@@ -8,7 +8,7 @@ lastmod: 2022-05-29
 Everywhere I look, I find [[posts/zettelkasten-shouldnt-be-complicated-but-it-is|complicated]] Zettelkasten workflows that require a multi-step setup process. On top of the setup, notes must be regularly reviewed and categorized. For some, this workflow may be a godsend, but for most, it's overkill. I'm here to unveil my method of using Zettelkasten. It may be unconventional, so beware.
 
 ## Zettelkasten Concepts
-[[notes/Zettelkasten|Zettelkasten]] can be distilled into [[notes/two principles of zettelkasten|two principles]]: take atomic notes and make connections. What this means is to take notes that are **limited to a specific topic** and make connections between these topics. Without these two principles, there is no Zettelkasten. So it's super important to fully understand this!
+[[publish/notes/Zettelkasten|Zettelkasten]] can be distilled into [[notes/two principles of zettelkasten|two principles]]: take atomic notes and make connections. What this means is to take notes that are **limited to a specific topic** and make connections between these topics. Without these two principles, there is no Zettelkasten. So it's super important to fully understand this!
 
 In my workflow, there are two types of notes:
 - **Fleeting Notes:** Notes that *aren't* specific to a topic

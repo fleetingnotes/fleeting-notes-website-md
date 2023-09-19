@@ -9,10 +9,10 @@ But before we dive into the instructions, let's quickly go over some of the bene
 -   It provides an alternative way to [[how-to-export-notes-in-fn|back up your notes]] in Fleeting Notes.
 -   It allows you to use Fleeting Notes with other local file managers (e.g. Obsidian MD, Logseq, etc.
 
-## [[setup-local-file-sync|Setting Up Local Sync]]
+## [[Setup local file sync|Setting Up Local Sync]]
 Setting up local sync in Fleeting Notes is a breeze. Here's what you need to do:
 
-![[setup-local-file-sync]]
+![[Setup local file sync]]
 
 ## Recommended Workflow
 If you're using Obsidian MD, I'd recommend using the [[sync-fleeting-notes-with-obsidian|Fleeting Notes Sync plugin]] to keep your notes synced between the devices.

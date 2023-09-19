@@ -9,7 +9,7 @@ With our [OCR plugin](https://github.com/fleetingnotes/fleeting-notes-plugins/tr
 Here's how it works, broken down into a few easy steps:
 
 1. **Get started**: Begin by launching your Fleeting Notes app and logging into your account. Just like always.
-2. **Add the OCR plugin**: Go to the [[add-a-plugin|add a plugin]] option. In the command id field, type `official/ocr-source` and in the alias field, type `image-to-text`. Don't worry, it's not as complex as it sounds. This is just telling Fleeting Notes to add the superpower of seeing and understanding the text in your images.
+2. **Add the OCR plugin**: Go to the [[Add your first plugin|add a plugin]] option. In the command id field, type `official/ocr-source` and in the alias field, type `image-to-text`. Don't worry, it's not as complex as it sounds. This is just telling Fleeting Notes to add the superpower of seeing and understanding the text in your images.
 3. **Choose your image**: Now it's time to choose the image with the text you want to extract. It could be any image - a photo, a screenshot, or even an image URL. Just put it in the source field.
 4. **Run the magic command**: Type `/` in the content field to run the `image-to-text` command. This is the secret password to trigger Fleeting Notes' new superpower.
 5. **Voila! Here's your text**: Watch in awe as the text from your image is loaded into the content field, ready for you to edit, save, or share.

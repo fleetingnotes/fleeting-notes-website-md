@@ -3,13 +3,13 @@
 id: "80225f64-5053-4d65-890c-6784b3f4b9c4"
 # Optional fields
 title: ""
-tags: ${fleeting notes}
+tags: []
 source: ""
 source_title: ""
 source_description: ""
 source_image_url: ""
-created_date: "2023-07-12"
-modified_date: "2023-07-14"
+created_date: "20230712200355"
+modified_date: "20230714145448"
 ---
 Intro about his company
 - allow personal trainers, to do admin stufff on a mobile app (payments & stuff, booking, etc.)

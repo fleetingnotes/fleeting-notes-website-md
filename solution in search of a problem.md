@@ -1,0 +1,1 @@
+Solution in search of a problem is coming up with a solution and then finding a problem to solve based on the solution. It's a poor approach to product development. It's akin to rolling a hundred sided die and hoping to get a number you bet on.
