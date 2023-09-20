@@ -5,11 +5,14 @@ permalink: /reference/how-to-take-fleeting-notes-through-sms-or-phone-calls
 date: 2023-09-19
 publish: true
 ---
-Fleeting Notes phone number: [+1 (888) 789 2360](tel:+18887892360)
+1. **Register or Log In**: Visit [Fleeting Notes](https://my.fleetingnotes.app/) and log in or create an account.
+2. **Subscribe**: Opt for the [premium or believer plan](https://www.fleetingnotes.app/pricing) to unlock this feature.
+3. **Text or Call**: Once subscribed, text or call [+1 (888) 789 2360](tel:+18887892360) to dictate your note and see it automatically populate in Fleeting Notes.
+4. **Sync with Obsidian**: While optional, you can follow [[Setup Obsidian cloud sync|this guide]] to sync your notes with Obsidian for a streamlined experience.
 
-1. Register / log into https://my.fleetingnotes.app
-2. Subscribe to the [premium / believer plan](https://www.fleetingnotes.app/pricing) to have access to this feature
-3. Now text or call [+1 (888) 789 2360](tel:+18887892360) and see the note populate in Fleeting Notes
-4. **Optional**: Follow this guide to [[Setup Obsidian cloud sync|sync]] your notes with Obsidian
+**Fleeting Notes Phone Number**: [+1 (888) 789 2360](tel:+18887892360)
 
-**Disclaimer**: Notes taken through SMS or phone calls are **NOT** [[Enable end-to-end encryption|end-to-end encrypted]]
+### Disclaimer
+Please note that notes taken through SMS or phone calls are NOT end-to-end encrypted, ensuring you are aware of the security level while using this feature.
+
+
