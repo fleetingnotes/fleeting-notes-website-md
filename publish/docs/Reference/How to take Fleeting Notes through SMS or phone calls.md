@@ -13,6 +13,6 @@ publish: true
 **Fleeting Notes Phone Number**: [+1 (888) 789 2360](tel:+18887892360)
 
 ### Disclaimer
-Please note that notes taken through SMS or phone calls are NOT end-to-end encrypted, ensuring you are aware of the security level while using this feature.
+Please note that notes taken through SMS or phone calls are NOT [[Enable end-to-end encryption|end-to-end encrypted]], ensuring you are aware of the security level while using this feature.
 
 
