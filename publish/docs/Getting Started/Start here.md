@@ -17,13 +17,13 @@ If you're new to Fleeting Notes, you've come to the right place! Get started by 
 
 If you have any questions or concerns, please don't hesitate to reach out to matthew@fleetingnotes.app
 
-## Advanced Topics
-
-- For added security, make sure to [[Enable end-to-end encryption|enable end-to-end encryption]]
-- If you'd like to be suggested your `[[wikilinks]]` from Obsidian, checkout [[How to sync Obsidian wikilinks into Fleeting Notes|how to sync Obsidian wikilinks into Fleeting Notes]]
+## Get into the details
+- Checkout how to [[Fleeting Notes Settings|customize the Fleeting Notes app settings]] to your desire.
+- If you have a particular workflow for Obsidian see more details on [[Obsidian Plugin Settings|changing the Obsidian plugin settings]]
 - [[Add your first plugin]] to learn how to extend the functionality of Fleeting Notes through slash commands
 - To take notes through Siri or Google assistant, you can [[How to take Fleeting Notes through SMS or phone calls|take notes through SMS or phone calls]]
 
-## Contributing
+## How you can help
+- Become an affiliate and [[Be an Affiliate|earn 30% commission on subscriptions indefinitely]]
 - If you're interested in contributing, checkout the [[publish/docs/Contributing/Start here|getting started guide for contributing]]
 - If you're interested in adding a plugin for slash commands, the [[Create your own plugin|create your own plugin guide]]

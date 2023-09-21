@@ -5,25 +5,29 @@ permalink: /reference/meaning-of-different-sync-types-obsidian-plugin
 date: 2023-09-08
 publish: true
 ---
+
 ![[Pasted image 20230915104107.png]]
-### One-way sync (FN => Obsidian)
-**Description**: Notes are synced from Fleeting Notes to Obsidian. Changes in Obsidian (Creating, Deleting, Editing) are NOT reflected in Obsidian. 
+### One-Way Sync (FN → Obsidian)
+**Description:** This sync type allows for a one-way transfer of notes from Fleeting Notes to Obsidian. Any changes made in Obsidian will not be mirrored back in Fleeting Notes.
 
-**When to use**: If you don't plan to touch the Fleeting Notes folder and want control of when notes are synced, use this sync type. 
-### One-way sync (FN => Obsidian) + Delete from FN
-**Description**: Notes are synced from Fleeting Notes to Obsidian. When notes are synced into Obsidian, all notes are *deleted* from Fleeting Notes.
+**Ideal for:** Users who prefer a controlled sync process and do not intend to modify the Fleeting Notes folder post-sync.
 
-**When to use**: If Fleeting Notes is only your dumping ground and you don't really use Fleeting Notes to revisit past notes, use this sync type.
-### Realtime One-way sync (FN => Obsidian)
-**Description**: Notes are synced from Fleeting Notes to Obsidian. Notes edited in Obsidian are NOT reflected in 
+### One-Way Sync with Deletion (FN → Obsidian) + Delete from FN
+**Description:** In addition to syncing notes from Fleeting Notes to Obsidian, this option also deletes the synced notes from Fleeting Notes.
 
-**When to use**: If you don't want to touch your Fleeting Notes folder and want realtime automatic sync from Fleeting Notes to Obsidian.
+**Ideal for:** Users who use Fleeting Notes merely as a temporary storage space and do not wish to revisit notes there.
 
-### Realtime Two-way sync (FN => Obsidian)
-**Description**: Notes are synced from Fleeting Notes to Obsidian. Notes edited in Obsidian are NOT reflected in 
+### Real-Time One-Way Sync (FN → Obsidian)
+**Description:** This sync type ensures real-time one-way synchronization from Fleeting Notes to Obsidian. Note that edits made in Obsidian will not be reflected in Fleeting Notes.
 
-**When to use**: When you see yourself going back to notes in Fleeting Notes and Obsidian.
+**Ideal for:** Users seeking an automatic, real-time sync solution without the need to manage the Fleeting Notes folder actively.
 
-**Notes**:
-- New notes created in Fleeting Notes are not synced UNLESS you run the `Create Empty Fleeting Note` command in Obsidian
-- Notes deleted / moved outside of the folder WILL be deleted in Fleeting Notes.
+### Real-Time Two-Way Sync (FN ↔ Obsidian)
+**Description:** This option facilitates a two-way sync, allowing for an interactive exchange between Fleeting Notes and Obsidian with the following conditions:
+- New notes in Fleeting Notes will only sync if initiated through the `Create Empty Fleeting Note` command in Obsidian.
+- Notes moved or deleted outside of the designated folder will also be deleted in Fleeting Notes.
+
+**Ideal for:** Users who actively engage with both Fleeting Notes and Obsidian and require a dynamic sync solution.
+
+
+

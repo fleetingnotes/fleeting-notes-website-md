@@ -5,7 +5,6 @@ permalink: /reference/how-to-fix-obsidian-plugin-sync
 date: 2023-09-08
 publish: true
 ---
-
 There could be a number of reasons as to why the sync doesn't work. Here are some steps to follow to ensure the sync works as expected. 
 
 ## If you haven't gotten sync to work
